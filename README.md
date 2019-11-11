@@ -14,7 +14,8 @@
 6. **Long Text Generation via Adversarial Training with Leaked Information**. *AAAI 2018*. [[PDF]()]
 7. **Order-Planning Neural Text Generation From Structured Data**. *AAAI 2018*. [[PDF]()]
 8. **Table-to-text Generation by Structure-aware Seq2seq Learning**. *AAAI 2018*. [[PDF]()]
-
+9. **Diverse and Coherent Paragraph Generation
+from Images**. *ECCV 2018*. [[PDF]( https://eccv2018.org/openaccess/content_ECCV_2018/papers/Moitreya_Chatterjee_Diverse_and_Coherent_ECCV_2018_paper.pdf )]
 ### Others Based
 1. **Data-to-Text Generation with Content Selection and Planning**. *AAAI 2019*. [[PDF]()]
 2. **Hierarchical Encoder with Auxiliary Supervision for Table-to-text Generation: Learning
