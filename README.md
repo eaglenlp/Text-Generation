@@ -3,21 +3,20 @@
 
 ## Papers
 ### Deep Reinforcement Learning Based
-1. **Using Semantic Similarity as Reward for Reinforcement Learning in Sentence Generation**. *ACL 2019*. [[PDF]()]
+1. **Using Semantic Similarity as Reward for Reinforcement Learning in Sentence Generation**. *ACL 2019*. [[PDF](https://pdfs.semanticscholar.org/6a53/a38e1b160ab70f4a0f84ceff906ac84d9b12.pdf)]
 
 ### Neural Network Based
-1. **Towards Generating Long and Coherent Text with Multi-Level Latent Variable Models**. *ACL 2019*. [[PDF]()]
-2. **Sentence-Level Content Planning and Style Specification for Neural Text Generation**. *EMNLP 2019*. [[PDF]()]
-3. **Denoising-based Sequence-to-Sequence Pre-training for Text Generation**. *EMNLP 2019*. [[PDF]()]
-4. **A Graph-to-Sequence Model for AMR-to-Text Generation**. *ACL 2018*. [[PDF]()]
-5. **Controlling Global Statistics in Recurrent Neural Network Text Generation**. *AAAI 2018*. [[PDF]()]
-6. **Long Text Generation via Adversarial Training with Leaked Information**. *AAAI 2018*. [[PDF]()]
-7. **Order-Planning Neural Text Generation From Structured Data**. *AAAI 2018*. [[PDF]()]
-8. **Table-to-text Generation by Structure-aware Seq2seq Learning**. *AAAI 2018*. [[PDF]()]
-9. **Diverse and Coherent Paragraph Generation
-from Images**. *ECCV 2018*. [[PDF]( https://eccv2018.org/openaccess/content_ECCV_2018/papers/Moitreya_Chatterjee_Diverse_and_Coherent_ECCV_2018_paper.pdf )]
+1. **Towards Generating Long and Coherent Text with Multi-Level Latent Variable Models**. *ACL 2019*. [[PDF](https://arxiv.org/pdf/1902.00154)]
+2. **Sentence-Level Content Planning and Style Specification for Neural Text Generation**. *EMNLP 2019*. [[PDF](https://arxiv.org/pdf/1909.00734)]
+3. **Denoising-based Sequence-to-Sequence Pre-training for Text Generation**. *EMNLP 2019*. [[PDF](https://arxiv.org/pdf/1908.08206)]
+4. **A Graph-to-Sequence Model for AMR-to-Text Generation**. *ACL 2018*. [[PDF](https://arxiv.org/pdf/1805.02473)]
+5. **Controlling Global Statistics in Recurrent Neural Network Text Generation**. *AAAI 2018*. [[PDF](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16961/16085)]
+6. **Long Text Generation via Adversarial Training with Leaked Information**. *AAAI 2018*. [[PDF](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPDFInterstitial/16360/16061)]
+7. **Order-Planning Neural Text Generation From Structured Data**. *AAAI 2018*. [[PDF](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16203/16095)]
+8. **Table-to-text Generation by Structure-aware Seq2seq Learning**. *AAAI 2018*. [[PDF](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPDFInterstitial/16599/16019)]
+9. **Diverse and Coherent Paragraph Generation from Images**. *ECCV 2018*. [[PDF]( https://eccv2018.org/openaccess/content_ECCV_2018/papers/Moitreya_Chatterjee_Diverse_and_Coherent_ECCV_2018_paper.pdf )]
 ### Others Based
-1. **Data-to-Text Generation with Content Selection and Planning**. *AAAI 2019*. [[PDF]()]
+1. **Data-to-Text Generation with Content Selection and Planning**. *AAAI 2019*. [[PDF](https://wvvw.aaai.org/ojs/index.php/AAAI/article/download/4668/4546)]
 2. **Hierarchical Encoder with Auxiliary Supervision for Table-to-text Generation: Learning
 Better Representation for Tables**. *AAAI 2019*. [[PDF]()]
 3. **ParaBank: Monolingual Bitext Generation and Sentential Paraphrasing via Lexicallyconstrained Neural Machine Translation**. *AAAI 2019*. [[PDF]()]
