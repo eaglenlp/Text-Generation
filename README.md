@@ -34,7 +34,8 @@ Better Representation for Tables**. *AAAI 2019*. [[PDF]()]
 15. **Neural data-to-text generation: A comparison between pipeline and end-to-end architectures**. *EMNLP 2019*. [[PDF]()]
 16. **Select and Attend: Towards Controllable Content Selection in Text Generation**. *EMNLP 2019*. [[PDF]()]
 17. **Table-to-Text Generation with Effective Hierarchical Encoder on Three dimensions (Row, Column and Time)**. *EMNLP 2019*. [[PDF]()]
-18. **Autoregressive Text Generation beyond Feedback Loops**. *EMNLP 2019*. [[PDF]()]
+18. **Autoregressive Text Generation beyond Feedback Loops**. *EMNLP 2019*. [[PDF](https://arxiv.org/pdf/1908.11658)]
+19. **Enhancing Variational Autoencoders with Mutual Information Neural Estimation for Text Generation**. *ACL 2019*. [[PDF](https://www.aclweb.org/anthology/D19-1416.pdf)]
 
 
 ### Metrics for Text Generation
