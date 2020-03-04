@@ -58,6 +58,12 @@
 
 Towards Generating Long and Coherent Text with Multi-Level Latent Variable Models. *ACL 2019*. [[PDF]()] \
 
+Adversarial Domain Adaptation Using Artificial Titles for Abstractive Title Generation. *ACL 2019*. [[PDF]()] \
+*This paper examines techniques for adapting from a labeled source domain to an unlabeled target domain in the context of an encoder-decoder model for text generation.*
+
+Learning to Control the Fine-grained Sentiment for Story Ending Generation. *ACL 2019*. [[PDF]()] \
+*In this paper, we propose to generate sentences from disentangled syntactic and semantic spaces.*
+
 Neural Keyphrase Generation via Reinforcement Learning with Adaptive Rewards. *ACL 2019*. [[PDF]()] \
 *To address this problem, we propose a reinforcement learning (RL) approach for keyphrase generation, with an adaptive reward function that encourages a model to generate both sufficient and accurate keyphrases.*
 
@@ -271,7 +277,7 @@ Neural data-to-text generation: A comparison between pipeline and end-to-end arc
 
 ### AAAI 2019
 Data-to-Text Generation with Content Selection and Planning. *AAAI 2019*. [[PDF](https://wvvw.aaai.org/ojs/index.php/AAAI/article/download/4668/4546)] \
-Hierarchical Encoder with Auxiliary Supervision for Table-to-text Generation: Learning Better Representation for Tables. *AAAI 2019*. [[PDF]()] \
+Hierarchical Encoder with Auxiliary Supervision for Table-to-text Generation: Learning Better Representation for Tables. *AAAI 2019*. [[PDF]()]
 
 ## Multimodal-Text
 ### ACL 2019
@@ -350,6 +356,9 @@ Capturing Greater Context for Question Generation. [[PDF]()] \
 ReCoSa: Detecting the Relevant Contexts with Self-Attention for Multi-turn Dialogue Generation. *ACL 2019*. [[PDF]()] \
 *In this paper, we propose a new model, named ReCoSa, to tackle this problem.*
 
+Neural Response Generation with Meta-words. *ACL 2019*. [[PDF]()] \
+*We present open domain dialogue generation with meta-words.*
+
 Semantically Conditioned Dialog Response Generation via Hierarchical Disentangled Self-Attention. *ACL 2019*. [[PDF]()] \
 *To alleviate such scalability issue, we exploit the structure of dialog acts to build a multi-layer hierarchical graph, where each act is represented as a root-to-leaf route on the graph.*
 
@@ -394,20 +403,8 @@ Rhetorically Controlled Encoder-Decoder for Modern Chinese Poetry Generation. *A
 Automatic Grammatical Error Correction for Sequence-to-sequence Text Generation: An Empirical Study. *ACL 2019*. [[PDF]()] \
 *In this paper, we present a preliminary empirical study on whether and how much automatic grammatical error correction can help improve seq2seq text generation.*
 
-Learning to Control the Fine-grained Sentiment for Story Ending Generation. *ACL 2019*. [[PDF]()] \
-*In this paper, we propose to generate sentences from disentangled syntactic and semantic spaces.*
-
-Neural Response Generation with Meta-words. *ACL 2019*. [[PDF]()] \
-*We present open domain dialogue generation with meta-words.*
-
 Coherent Comments Generation for Chinese Articles with a Graph-to-Sequence Model. *ACL 2019*. [[PDF]()] \
 *In this paper, we propose to generate comments with a graph-to-sequence model that models the input news as a topic interaction graph.*
-
-Retrieval-Enhanced Adversarial Training for Neural Response Generation. *ACL 2019*. [[PDF]()] \
-*In this paper, we propose a Retrieval-Enhanced Adversarial Training (REAT) method for neural response generation.*
-
-**Adversarial Domain Adaptation Using Artificial Titles for Abstractive Title Generation**. *ACL 2019*. [[PDF]()] \
-*This paper examines techniques for adapting from a labeled source domain to an unlabeled target domain in the context of an encoder-decoder model for text generation.*
 
 **Topic-Aware Neural Keyphrase Generation for Social Media Language**. *ACL 2019*. [[PDF]()] \
 *To facilitate automatic language understanding, we study keyphrase prediction, distilling salient information from massive posts.*
