@@ -46,22 +46,6 @@
 # Text Generation
 
 ## Base
-### AAAI 2020
-Attractive or Faithful? Popularity‐Reinforced Learning for Inspired Headline Generation. [[PDF]()] \
-Learning to Compare for Better Training and Evaluation of Open Domain Text Generation Models. [[PDF]()] \
-Sentence Generation for Entity Description with Content‐plan Attention. [[PDF]()] \
-Recurrent Nested Model for Sequence Generation. [[PDF]()] \
-**Active Learning with Query Generation for Cost‐Effective Text Classification**. [[PDF]()] \
-CatGAN: Category‐aware Generative Adversarial Networks with Hierarchical Evolutionary Learning for Category Text Generation. [[PDF]()] \
-**Structure Learning for Headline Generation**. [[PDF]()] \
-A Pre‐training Based Personalized Dialogue Generation Model with Persona‐sparse Data. [[PDF]()] \
-A Dataset for Low-Resource Stylized Sequence-to‐Sequence Generation. [[PDF]()] \
-Complementary Auxiliary Classifiers for Label‐Conditional Text Generation. [[PDF]()] \
-**Cross-Lingual Natural Language Generation via Pre‐Training**. [[PDF]()] \
-**Open Domain Event Text Generation**. [[PDF]()] \
-**Joint Parsing and Generation for Abstractive Summarization**. [[PDF]()] \
-A Meta Cooperative Training Paradigm for Improving Adversarial Text Generation. [[PDF]()] \
-Sequence Generation with Optimal‐Transport‐Enhanced Reinforcement Learning. [[PDF]()] \
 
 ### ACL 2019
 **Syntax-Infused Variational Autoencoder for Text Generation**. *ACL 2019*. [[PDF]()] \
@@ -213,6 +197,23 @@ Long and Diverse Text Generation with Planning-based Hierarchical Variational Mo
 Select and Attend: Towards Controllable Content Selection in Text Generation. *EMNLP 2019*. [[PDF]()] \
 Autoregressive Text Generation beyond Feedback Loops. *EMNLP 2019*. [[PDF](https://arxiv.org/pdf/1908.11658)]
 
+### AAAI 2020
+Attractive or Faithful? Popularity‐Reinforced Learning for Inspired Headline Generation. [[PDF]()] \
+Learning to Compare for Better Training and Evaluation of Open Domain Text Generation Models. [[PDF]()] \
+Sentence Generation for Entity Description with Content‐plan Attention. [[PDF]()] \
+Recurrent Nested Model for Sequence Generation. [[PDF]()] \
+**Active Learning with Query Generation for Cost‐Effective Text Classification**. [[PDF]()] \
+CatGAN: Category‐aware Generative Adversarial Networks with Hierarchical Evolutionary Learning for Category Text Generation. [[PDF]()] \
+**Structure Learning for Headline Generation**. [[PDF]()] \
+A Pre‐training Based Personalized Dialogue Generation Model with Persona‐sparse Data. [[PDF]()] \
+A Dataset for Low-Resource Stylized Sequence-to‐Sequence Generation. [[PDF]()] \
+Complementary Auxiliary Classifiers for Label‐Conditional Text Generation. [[PDF]()] \
+**Cross-Lingual Natural Language Generation via Pre‐Training**. [[PDF]()] \
+**Open Domain Event Text Generation**. [[PDF]()] \
+**Joint Parsing and Generation for Abstractive Summarization**. [[PDF]()] \
+A Meta Cooperative Training Paradigm for Improving Adversarial Text Generation. [[PDF]()] \
+Sequence Generation with Optimal‐Transport‐Enhanced Reinforcement Learning. [[PDF]()] \
+
 ### AAAI 2019
 Differentiated Distribution Recovery for Neural Text Generation. *AAAI 2019*. [[PDF]()] \
 
@@ -297,13 +298,6 @@ Diverse and Coherent Paragraph Generation from Images. *ECCV 2018*. [[PDF]( http
 
 ## Question Answer
 
-### AAAI 2020
-Improving Question Generation with Sentence‐level Semantic Matching and Answer Position Inferring. [[PDF]()] \
-Conclusion‐Supplement Answer Generation for Non‐Factoid Questions. [[PDF]()] \
-Joint Learning of Answer Selection and Answer Summary Generation in Community Question Answering. [[PDF]()] \
-Neural Question Generation with Answer Pivot. [[PDF]()] \
-Capturing Greater Context for Question Generation. [[PDF]()] \
-
 ### ACL 2019
 Generating Question-Answer Hierarchies. *ACL 2019*. [[PDF]()] \
 *In this paper, we present SQUASH (Specificity-controlled Question-Answer Hierarchies), a novel and challenging text generation task that converts an input document into a hierarchy of question-answer pairs.*
@@ -342,12 +336,14 @@ Zero-Shot Question Generation from Knowledge Graphs for Unseen Predicates and En
 Leveraging Context Information for Natural Question Generation. *NAACL 2018*. [[PDF]()] \
 *We propose a model that matches the answer with the passage before generating the question.*
 
-## Dialogue
-
 ### AAAI 2020
-Learning from Easy to Complex: Adaptive Multi‐curricula Learning for Neural Dialogue Generation. [[PDF]()] \
-Improving Knowledge‐aware Dialogue Generation via Knowledge Base Question Answering. [[PDF]()] \
-MALA: Cross‐Domain Dialogue Generation with Action Learning. [[PDF]()]
+Improving Question Generation with Sentence‐level Semantic Matching and Answer Position Inferring. [[PDF]()] \
+Conclusion‐Supplement Answer Generation for Non‐Factoid Questions. [[PDF]()] \
+Joint Learning of Answer Selection and Answer Summary Generation in Community Question Answering. [[PDF]()] \
+Neural Question Generation with Answer Pivot. [[PDF]()] \
+Capturing Greater Context for Question Generation. [[PDF]()] \
+
+## Dialogue
 
 ### ACL 2019
 ReCoSa: Detecting the Relevant Contexts with Self-Attention for Multi-turn Dialogue Generation. *ACL 2019*. [[PDF]()] \
@@ -383,15 +379,12 @@ Dialog Generation Using Multi-Turn Reasoning Neural Networks. *NAACL 2018*. [[PD
 Automatic Dialogue Generation with Expressed Emotions. *NAACL 2018*. [[PDF]()] \
 *In this research, we address the problem of forcing the dialogue generation to express emotion.*
 
-## Other Applications
 ### AAAI 2020
-An Iterative Polishing Framework based on Quality Aware Masked Language Model for Chinese Poetry Generation. [[PDF]()] \
-MixPoet: Diverse Poetry Generation via Learning Controllable Mixed Latent Space. [[PDF]()] \
-Label Error Correction and Generation Through Label Relationships. [[PDF]()] \
-A Character‐Centric Neural Model for Automated Story Generation. [[PDF]()] \
-Automatic Generation of Headlines for Online Math Questions. [[PDF]()] \
-TreeGen: A Tree‐Based Transformer Architecture for Code Generation. [[PDF]()] \
-**On the Generation of Medical Question-Answer Pairs**. [[PDF]()] \
+Learning from Easy to Complex: Adaptive Multi‐curricula Learning for Neural Dialogue Generation. [[PDF]()] \
+Improving Knowledge‐aware Dialogue Generation via Knowledge Base Question Answering. [[PDF]()] \
+MALA: Cross‐Domain Dialogue Generation with Action Learning. [[PDF]()]
+
+## Other Applications
 
 ### ACL 2019
 Rhetorically Controlled Encoder-Decoder for Modern Chinese Poetry Generation. *ACL 2019*. [[PDF]()] \
@@ -438,7 +431,17 @@ TypeSQL: Knowledge-Based Type-Aware Neural Text-to-SQL Generation. *NAACL 2018*.
 Learning to Generate Wikipedia Summaries for Underserved Languages from Wikidata. *NAACL 2018*. *NAACL 2018*. [[PDF]()] \
 *In this work, we investigate the generation of open domain Wikipedia summaries in underserved languages using structured data from Wikidata.*
 
+### AAAI 2020
+An Iterative Polishing Framework based on Quality Aware Masked Language Model for Chinese Poetry Generation. [[PDF]()] \
+MixPoet: Diverse Poetry Generation via Learning Controllable Mixed Latent Space. [[PDF]()] \
+Label Error Correction and Generation Through Label Relationships. [[PDF]()] \
+A Character‐Centric Neural Model for Automated Story Generation. [[PDF]()] \
+Automatic Generation of Headlines for Online Math Questions. [[PDF]()] \
+TreeGen: A Tree‐Based Transformer Architecture for Code Generation. [[PDF]()] \
+**On the Generation of Medical Question-Answer Pairs**. [[PDF]()] \
+
 ## Dataset
+### ACL 2019 
 Storyboarding of Recipes: Grounded Contextual Generation. *ACL 2019*. [[PDF]()] \
 *We introduce a dataset for sequential procedural (how-to) text generation from images in cooking domain.*
 
