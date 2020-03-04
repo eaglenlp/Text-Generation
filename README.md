@@ -27,6 +27,49 @@ Select and Attend: Towards Controllable Content Selection in Text Generation. *E
 Table-to-Text Generation with Effective Hierarchical Encoder on Three dimensions (Row, Column and Time). *EMNLP 2019*. [[PDF]()] \
 Autoregressive Text Generation beyond Feedback Loops. *EMNLP 2019*. [[PDF](https://arxiv.org/pdf/1908.11658)]
 
+
+## AAAI 2020
+Attractive or Faithful? Popularity‐Reinforced Learning for Inspired Headline Generation. [[PDF]()] \
+Learning to Compare for Better Training and Evaluation of Open Domain Text Generation Models. [[PDF]()] \
+An Iterative Polishing Framework based on Quality Aware Masked Language Model for Chinese Poetry. [[PDF]()] \
+Generation. [[PDF]()] \
+Rank3DGAN: Semantic mesh generation using relative attributes. [[PDF]()] \
+Label Error Correction and Generation Through Label Relationships. [[PDF]()] \
+On the Generation of Medical Question-Answer Pairs. [[PDF]()] \
+**Improving Question Generation with Sentence‐level Semantic Matching and Answer Position Inferring**. [[PDF]()] \
+Sentence Generation for Entity Description with Content‐plan Attention. [[PDF]()] \
+Recurrent Nested Model for Sequence Generation. [[PDF]()] \
+**Active Learning with Query Generation for Cost‐Effective Text Classification**. [[PDF]()] \
+Conclusion‐Supplement Answer Generation for Non‐Factoid Questions. [[PDF]()] \
+Learning from Easy to Complex: Adaptive Multi‐curricula Learning for Neural Dialogue Generation. [[PDF]()] \
+Improving Knowledge‐aware Dialogue Generation via Knowledge Base Question Answering. [[PDF]()] \
+MixPoet: Diverse Poetry Generation via Learning Controllable Mixed Latent Space. [[PDF]()] \
+CatGAN: Category‐aware Generative Adversarial Networks with Hierarchical Evolutionary Learning for
+Category Text Generation. [[PDF]()] \
+**Structure Learning for Headline Generation**. [[PDF]()] \
+Joint Learning of Answer Selection and Answer Summary Generation in Community Question Answering. [[PDF]()] \
+A Pre‐training Based Personalized Dialogue Generation Model with Persona‐sparse Data. [[PDF]()] \
+Automatic Generation of Headlines for Online Math Questions. [[PDF]()] \
+A Character‐Centric Neural Model for Automated Story Generation. [[PDF]()] \
+A Dataset for Low-Resource Stylized Sequence-to‐Sequence Generation. [[PDF]()] \
+Complementary Auxiliary Classifiers for Label‐Conditional Text Generation. [[PDF]()] \
+TreeGen: A Tree‐Based Transformer Architecture for Code Generation. [[PDF]()] \
+**Cross-Lingual Natural Language Generation via Pre‐Training**. [[PDF]()] \
+Neural Question Generation with Answer Pivot. [[PDF]()] \
+**Open Domain Event Text Generation**. [[PDF]()] \
+**Joint Parsing and Generation for Abstractive Summarization**. [[PDF]()] \
+Capturing Greater Context for Question Generation. [[PDF]()] \
+A Meta Cooperative Training Paradigm for Improving Adversarial Text Generation. [[PDF]()] \
+Sequence Generation with Optimal‐Transport‐Enhanced Reinforcement Learning. [[PDF]()] \
+MALA: Cross‐Domain Dialogue Generation with Action Learning. [[PDF]()]
+
+## AAAI 2019
+Differentiated Distribution Recovery for Neural Text Generation. *AAAI 2019*. [[PDF]()] \
+Data-to-Text Generation with Content Selection and Planning. *AAAI 2019*. [[PDF](https://wvvw.aaai.org/ojs/index.php/AAAI/article/download/4668/4546)] \
+Hierarchical Encoder with Auxiliary Supervision for Table-to-text Generation: Learning Better Representation for Tables. *AAAI 2019*. [[PDF]()] \
+
+ParaBank: Monolingual Bitext Generation and Sentential Paraphrasing via Lexicallyconstrained Neural Machine Translation. *AAAI 2019*. [[PDF]()] \
+
 ## AAAI 2018
 Controlling Global Statistics in Recurrent Neural Network Text Generation. *AAAI 2018*. [[PDF](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16961/16085)] \
 Long Text Generation via Adversarial Training with Leaked Information. *AAAI 2018*. [[PDF](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPDFInterstitial/16360/16061)] \
@@ -36,12 +79,7 @@ Table-to-text Generation by Structure-aware Seq2seq Learning. *AAAI 2018*. [[PDF
 ## ECCV 2018
 Diverse and Coherent Paragraph Generation from Images. *ECCV 2018*. [[PDF]( https://eccv2018.org/openaccess/content_ECCV_2018/papers/Moitreya_Chatterjee_Diverse_and_Coherent_ECCV_2018_paper.pdf)]
 
-## AAAI 2019
-Differentiated Distribution Recovery for Neural Text Generation. *AAAI 2019*. [[PDF]()] \
-Data-to-Text Generation with Content Selection and Planning. *AAAI 2019*. [[PDF](https://wvvw.aaai.org/ojs/index.php/AAAI/article/download/4668/4546)] \
-Hierarchical Encoder with Auxiliary Supervision for Table-to-text Generation: Learning Better Representation for Tables. *AAAI 2019*. [[PDF]()] \
 
-ParaBank: Monolingual Bitext Generation and Sentential Paraphrasing via Lexicallyconstrained Neural Machine Translation. *AAAI 2019*. [[PDF]()] \
 
 ## NAACL 2019
 **Topic-Guided Variational Auto-Encoder for Text Generation**. [[PDF]()] \
