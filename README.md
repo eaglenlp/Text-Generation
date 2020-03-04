@@ -1,7 +1,7 @@
 
 * [Text Generation](#text-generation)
   * [Base](#base)
-  * [AAAI 2020](#aaai-2020)
+    * [AAAI 2020](#aaai-2020)
     * [ACL 2019](#acl-2019)
     * [NAACL 2019](#naacl-2019)
     * [NAACL 2018](#naacl-2018)
@@ -46,7 +46,7 @@
 # Text Generation
 
 ## Base
-## AAAI 2020
+### AAAI 2020
 Attractive or Faithful? Popularity‐Reinforced Learning for Inspired Headline Generation. [[PDF]()] \
 Learning to Compare for Better Training and Evaluation of Open Domain Text Generation Models. [[PDF]()] \
 Sentence Generation for Entity Description with Content‐plan Attention. [[PDF]()] \
