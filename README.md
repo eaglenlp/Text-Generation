@@ -40,11 +40,25 @@ Table of Contents
 
 # Text Generation
 
-
-
 ## Base
-### ACL 2019
+## AAAI 2020
+Attractive or Faithful? Popularity‐Reinforced Learning for Inspired Headline Generation. [[PDF]()] \
+Learning to Compare for Better Training and Evaluation of Open Domain Text Generation Models. [[PDF]()] \
+Sentence Generation for Entity Description with Content‐plan Attention. [[PDF]()] \
+Recurrent Nested Model for Sequence Generation. [[PDF]()] \
+**Active Learning with Query Generation for Cost‐Effective Text Classification**. [[PDF]()] \
+CatGAN: Category‐aware Generative Adversarial Networks with Hierarchical Evolutionary Learning for Category Text Generation. [[PDF]()] \
+**Structure Learning for Headline Generation**. [[PDF]()] \
+A Pre‐training Based Personalized Dialogue Generation Model with Persona‐sparse Data. [[PDF]()] \
+A Dataset for Low-Resource Stylized Sequence-to‐Sequence Generation. [[PDF]()] \
+Complementary Auxiliary Classifiers for Label‐Conditional Text Generation. [[PDF]()] \
+**Cross-Lingual Natural Language Generation via Pre‐Training**. [[PDF]()] \
+**Open Domain Event Text Generation**. [[PDF]()] \
+**Joint Parsing and Generation for Abstractive Summarization**. [[PDF]()] \
+A Meta Cooperative Training Paradigm for Improving Adversarial Text Generation. [[PDF]()] \
+Sequence Generation with Optimal‐Transport‐Enhanced Reinforcement Learning. [[PDF]()] \
 
+### ACL 2019
 **Syntax-Infused Variational Autoencoder for Text Generation**. *ACL 2019*. [[PDF]()] \
 *We present a syntax-infused variational autoencoder (SIVAE), that integrates sentences with their syntactic trees to improve the grammar of generated sentences.*
 
@@ -183,15 +197,42 @@ RankME: Reliable Human Ratings for Natural Language Generation. *NAACL 2018*. [[
 Identifying the Most Dominant Event in a News Article by Mining Event Coreference Relations. *NAACL 2018*. [[PDF]()] \
 *Identifying the most dominant and central event of a document, which governs and connects other foreground and background events in the document, is useful for many applications, such as text summarization, storyline generation and text segmentation.*
 
+### EMNLP 2019
+Sentence-Level Content Planning and Style Specification for Neural Text Generation. *EMNLP 2019*. [[PDF](https://arxiv.org/pdf/1909.00734)] \
+Denoising-based Sequence-to-Sequence Pre-training for Text Generation. *EMNLP 2019*. [[PDF](https://arxiv.org/pdf/1908.08206)] \
+A Topic Augmented Text Generation Model: Joint Learning of Semantics and Structural Features. *EMNLP 2019*. [[PDF]()] \
+ARAML: A Stable Adversarial Training Framework for Text Generation. *EMNLP 2019*. [[PDF]()] \
+Deep Copycat Networks for Text-to-Text Generation. *EMNLP 2019*. [[PDF]()] \
+Implicit Deep Latent Variable Models for Text Generation. *EMNLP 2019*. [[PDF]()] \
+Long and Diverse Text Generation with Planning-based Hierarchical Variational Model. *EMNLP 2019*. [[PDF]()] \
+Select and Attend: Towards Controllable Content Selection in Text Generation. *EMNLP 2019*. [[PDF]()] \
+Autoregressive Text Generation beyond Feedback Loops. *EMNLP 2019*. [[PDF](https://arxiv.org/pdf/1908.11658)]
+
+### AAAI 2019
+Differentiated Distribution Recovery for Neural Text Generation. *AAAI 2019*. [[PDF]()] \
+
+### AAAI 2018
+Controlling Global Statistics in Recurrent Neural Network Text Generation. *AAAI 2018*. [[PDF](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16961/16085)] \
+Long Text Generation via Adversarial Training with Leaked Information. *AAAI 2018*. [[PDF](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPDFInterstitial/16360/16061)] \
+Order-Planning Neural Text Generation From Structured Data. *AAAI 2018*. [[PDF](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16203/16095)]
+
 
 ## Table-Text
+### ACL 2019
 Towards Comprehensive Description Generation from Factual Attribute-value Tables. *ACL 2019*. [[PDF]()] \
 *To relieve these problems, we first propose force attention (FA) method to encourage the generator to pay more attention to the uncovered attributes to avoid potential key attributes missing. Furthermore, we propose reinforcement learning for information richness to generate more informative as well as more loyal descriptions for tables.*
 
 Key Fact as Pivot: A Two-Stage Model for Low Resource Table-to-Text Generation. *ACL 2019*. [[PDF]()] \
 *In this work, we consider the scenario of low resource table-to-text generation, where only limited parallel data is available.*
 
+### EMNLP 2019
+Table-to-Text Generation with Effective Hierarchical Encoder on Three dimensions (Row, Column and Time). *EMNLP 2019*. [[PDF]()] \
+
+### AAAI 2018
+Table-to-text Generation by Structure-aware Seq2seq Learning. *AAAI 2018*. [[PDF](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPDFInterstitial/16599/16019)]
+
 ## Data-Text
+
 ### ACL 2019
 generation by comparing graph encoders to tree encoders, where reentrancies are not preserved.*
 Data-to-text Generation with Entity Modeling. *ACL 2019*. [[PDF]()] \
@@ -199,6 +240,9 @@ Data-to-text Generation with Entity Modeling. *ACL 2019*. [[PDF]()] \
 
 Learning to Select, Track, and Generate for Data-to-Text. *ACL 2019*. [[PDF]()] \
 *We propose a data-to-text generation model with two modules, one for tracking and the other for text generation.*
+
+## ACL 2018
+A Graph-to-Sequence Model for AMR-to-Text Generation. *ACL 2018*. [[PDF](https://arxiv.org/pdf/1805.02473)]
 
 ### NAACL 2019
 Step-by-Step: Separating Planning from Realization in Neural Data-to-Text Generation. *NAACL 2019*. [[PDF]()] \
@@ -211,6 +255,16 @@ information extraction system, and in particular a knowledge graph.*
 
 Structural Neural Encoders for AMR-to-text Generation. *NAACL 2019*. [[PDF]()] \
 *We investigate the extent to which reentrancies (nodes with multiple parents) have an impact on AMR-to-text
+
+### EMNLP 2019
+Modeling Graph Structure in Transformer for Better AMR-to-Text Generation. *EMNLP 2019*. [[PDF]()] \
+Enhancing AMR-to-Text Generation with Dual Graph Representations. *EMNLP 2019*. [[PDF]()] \
+Enhancing Neural Data-To-Text Generation Models with External Background Knowledge. *EMNLP 2019*. [[PDF]()] \
+Neural data-to-text generation: A comparison between pipeline and end-to-end architectures. *EMNLP 2019*. [[PDF]()] \
+
+### AAAI 2019
+Data-to-Text Generation with Content Selection and Planning. *AAAI 2019*. [[PDF](https://wvvw.aaai.org/ojs/index.php/AAAI/article/download/4668/4546)] \
+Hierarchical Encoder with Auxiliary Supervision for Table-to-text Generation: Learning Better Representation for Tables. *AAAI 2019*. [[PDF]()] \
 
 ## Multimodal-Text
 ### ACL 2019
@@ -229,12 +283,21 @@ Improving Visual Question Answering by Referring to Generated Paragraph Captions
 Ordinal and Attribute Aware Response Generation in a Multimodal Dialogue System. *ACL 2019*. [[PDF]()] \
 *In this paper, we propose a novel position and attribute aware attention mechanism to learn enhanced image representation conditioned on the user utterance.*
 
-### NAACL 2019
 ### NAACL 2018
 What’s This Movie About? A Joint Neural Network Architecture for Movie Content Analysis. *NAACL 2018*. [[PDF]()] \
 *We present a novel end-to-end model for overview generation, consisting of a multi-label encoder for identifying screenplay attributes, and an LSTM decoder to generate natural language sentences conditioned on the identified attributes. We create a dataset that consists of movie scripts, attribute-value pairs for the movies’ aspects, as well as overviews, which we extract from an online database.*
 
-## QA
+### ECCV 2018
+Diverse and Coherent Paragraph Generation from Images. *ECCV 2018*. [[PDF]( https://eccv2018.org/openaccess/content_ECCV_2018/papers/Moitreya_Chatterjee_Diverse_and_Coherent_ECCV_2018_paper.pdf)]
+
+## Question Answer
+
+### AAAI 2020
+Improving Question Generation with Sentence‐level Semantic Matching and Answer Position Inferring. [[PDF]()] \
+Conclusion‐Supplement Answer Generation for Non‐Factoid Questions. [[PDF]()] \
+Joint Learning of Answer Selection and Answer Summary Generation in Community Question Answering. [[PDF]()] \
+Neural Question Generation with Answer Pivot. [[PDF]()] \
+Capturing Greater Context for Question Generation. [[PDF]()] \
 
 ### ACL 2019
 Generating Question-Answer Hierarchies. *ACL 2019*. [[PDF]()] \
@@ -264,7 +327,6 @@ Learning to Ask Unanswerable Questions for Machine Reading Comprehension. *ACL 2
 Reinforced Dynamic Reasoning for Conversational Question Generation. *ACL 2019*. [[PDF]()] \
 *Towards that end, we propose a new approach named Reinforced Dynamic Reasoning network, which is based on the general encoder-decoder framework but incorporates a reasoning procedure in a dynamic manner to better understand what has been asked and what to ask next about the passage into the general encoder-decoder framework.*
 
-### NAACL 2019
 ### NAACL 2018
 Natural Answer Generation with Heterogeneous Memory. *NAACL 2018*. [[PDF]()] \
 *In this work, we propose a novel attention mechanism to encourage the decoder to actively interact with the memory by taking its heterogeneity into account.*
@@ -276,6 +338,12 @@ Leveraging Context Information for Natural Question Generation. *NAACL 2018*. [[
 *We propose a model that matches the answer with the passage before generating the question.*
 
 ## Dialogue
+
+### AAAI 2020
+Learning from Easy to Complex: Adaptive Multi‐curricula Learning for Neural Dialogue Generation. [[PDF]()] \
+Improving Knowledge‐aware Dialogue Generation via Knowledge Base Question Answering. [[PDF]()] \
+MALA: Cross‐Domain Dialogue Generation with Action Learning. [[PDF]()]
+
 ### ACL 2019
 ReCoSa: Detecting the Relevant Contexts with Self-Attention for Multi-turn Dialogue Generation. *ACL 2019*. [[PDF]()] \
 *In this paper, we propose a new model, named ReCoSa, to tackle this problem.*
@@ -311,6 +379,15 @@ Automatic Dialogue Generation with Expressed Emotions. *NAACL 2018*. [[PDF]()] \
 *In this research, we address the problem of forcing the dialogue generation to express emotion.*
 
 ## Other Applications
+## AAAI 2020
+An Iterative Polishing Framework based on Quality Aware Masked Language Model for Chinese Poetry Generation. [[PDF]()] \
+MixPoet: Diverse Poetry Generation via Learning Controllable Mixed Latent Space. [[PDF]()] \
+Label Error Correction and Generation Through Label Relationships. [[PDF]()] \
+A Character‐Centric Neural Model for Automated Story Generation. [[PDF]()] \
+Automatic Generation of Headlines for Online Math Questions. [[PDF]()] \
+TreeGen: A Tree‐Based Transformer Architecture for Code Generation. [[PDF]()] \
+**On the Generation of Medical Question-Answer Pairs**. [[PDF]()] \
+
 ### ACL 2019
 Rhetorically Controlled Encoder-Decoder for Modern Chinese Poetry Generation. *ACL 2019*. [[PDF]()] \
 *In this paper, we propose a rhetorically controlled encoder-decoder for modern Chinese poetry generation.*
@@ -389,79 +466,7 @@ Unifying Human and Statistical Evaluation for Natural Language Generation. *NAAC
 *In this paper, we propose a unified framework which evaluates both diversity and quality, based on the optimal
 error rate of predicting whether a sentence is human- or machine-generated.*
 
-## ACL 2018
-A Graph-to-Sequence Model for AMR-to-Text Generation. *ACL 2018*. [[PDF](https://arxiv.org/pdf/1805.02473)]
-
-## EMNLP 2019
-Sentence-Level Content Planning and Style Specification for Neural Text Generation. *EMNLP 2019*. [[PDF](https://arxiv.org/pdf/1909.00734)] \
-Denoising-based Sequence-to-Sequence Pre-training for Text Generation. *EMNLP 2019*. [[PDF](https://arxiv.org/pdf/1908.08206)] \
-A Topic Augmented Text Generation Model: Joint Learning of Semantics and Structural Features. *EMNLP 2019*. [[PDF]()] \
-ARAML: A Stable Adversarial Training Framework for Text Generation. *EMNLP 2019*. [[PDF]()] \
-Deep Copycat Networks for Text-to-Text Generation. *EMNLP 2019*. [[PDF]()] \
-Enhancing AMR-to-Text Generation with Dual Graph Representations. *EMNLP 2019*. [[PDF]()] \
-Enhancing Neural Data-To-Text Generation Models with External Background Knowledge. *EMNLP 2019*. [[PDF]()] \
-Implicit Deep Latent Variable Models for Text Generation. *EMNLP 2019*. [[PDF]()] \
-Long and Diverse Text Generation with Planning-based Hierarchical Variational Model. *EMNLP 2019*. [[PDF]()] \
-Modeling Graph Structure in Transformer for Better AMR-to-Text Generation. *EMNLP 2019*. [[PDF]()] \
+### EMNLP 2019
 MoverScore: Text Generation Evaluating with Contextualized Embeddings and Earth Mover Distance. *EMNLP 2019*. [[PDF]()] \
-Neural data-to-text generation: A comparison between pipeline and end-to-end architectures. *EMNLP 2019*. [[PDF]()] \
-Select and Attend: Towards Controllable Content Selection in Text Generation. *EMNLP 2019*. [[PDF]()] \
-Table-to-Text Generation with Effective Hierarchical Encoder on Three dimensions (Row, Column and Time). *EMNLP 2019*. [[PDF]()] \
-Autoregressive Text Generation beyond Feedback Loops. *EMNLP 2019*. [[PDF](https://arxiv.org/pdf/1908.11658)]
-
-
-## AAAI 2020
-Attractive or Faithful? Popularity‐Reinforced Learning for Inspired Headline Generation. [[PDF]()] \
-Learning to Compare for Better Training and Evaluation of Open Domain Text Generation Models. [[PDF]()] \
-An Iterative Polishing Framework based on Quality Aware Masked Language Model for Chinese Poetry. [[PDF]()] \
-Generation. [[PDF]()] \
-Rank3DGAN: Semantic mesh generation using relative attributes. [[PDF]()] \
-Label Error Correction and Generation Through Label Relationships. [[PDF]()] \
-On the Generation of Medical Question-Answer Pairs. [[PDF]()] \
-**Improving Question Generation with Sentence‐level Semantic Matching and Answer Position Inferring**. [[PDF]()] \
-Sentence Generation for Entity Description with Content‐plan Attention. [[PDF]()] \
-Recurrent Nested Model for Sequence Generation. [[PDF]()] \
-**Active Learning with Query Generation for Cost‐Effective Text Classification**. [[PDF]()] \
-Conclusion‐Supplement Answer Generation for Non‐Factoid Questions. [[PDF]()] \
-Learning from Easy to Complex: Adaptive Multi‐curricula Learning for Neural Dialogue Generation. [[PDF]()] \
-Improving Knowledge‐aware Dialogue Generation via Knowledge Base Question Answering. [[PDF]()] \
-MixPoet: Diverse Poetry Generation via Learning Controllable Mixed Latent Space. [[PDF]()] \
-CatGAN: Category‐aware Generative Adversarial Networks with Hierarchical Evolutionary Learning for
-Category Text Generation. [[PDF]()] \
-**Structure Learning for Headline Generation**. [[PDF]()] \
-Joint Learning of Answer Selection and Answer Summary Generation in Community Question Answering. [[PDF]()] \
-A Pre‐training Based Personalized Dialogue Generation Model with Persona‐sparse Data. [[PDF]()] \
-Automatic Generation of Headlines for Online Math Questions. [[PDF]()] \
-A Character‐Centric Neural Model for Automated Story Generation. [[PDF]()] \
-A Dataset for Low-Resource Stylized Sequence-to‐Sequence Generation. [[PDF]()] \
-Complementary Auxiliary Classifiers for Label‐Conditional Text Generation. [[PDF]()] \
-TreeGen: A Tree‐Based Transformer Architecture for Code Generation. [[PDF]()] \
-**Cross-Lingual Natural Language Generation via Pre‐Training**. [[PDF]()] \
-Neural Question Generation with Answer Pivot. [[PDF]()] \
-**Open Domain Event Text Generation**. [[PDF]()] \
-**Joint Parsing and Generation for Abstractive Summarization**. [[PDF]()] \
-Capturing Greater Context for Question Generation. [[PDF]()] \
-A Meta Cooperative Training Paradigm for Improving Adversarial Text Generation. [[PDF]()] \
-Sequence Generation with Optimal‐Transport‐Enhanced Reinforcement Learning. [[PDF]()] \
-MALA: Cross‐Domain Dialogue Generation with Action Learning. [[PDF]()]
-
-## AAAI 2019
-Differentiated Distribution Recovery for Neural Text Generation. *AAAI 2019*. [[PDF]()] \
-Data-to-Text Generation with Content Selection and Planning. *AAAI 2019*. [[PDF](https://wvvw.aaai.org/ojs/index.php/AAAI/article/download/4668/4546)] \
-Hierarchical Encoder with Auxiliary Supervision for Table-to-text Generation: Learning Better Representation for Tables. *AAAI 2019*. [[PDF]()] \
-
-ParaBank: Monolingual Bitext Generation and Sentential Paraphrasing via Lexicallyconstrained Neural Machine Translation. *AAAI 2019*. [[PDF]()] \
-
-## AAAI 2018
-Controlling Global Statistics in Recurrent Neural Network Text Generation. *AAAI 2018*. [[PDF](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16961/16085)] \
-Long Text Generation via Adversarial Training with Leaked Information. *AAAI 2018*. [[PDF](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPDFInterstitial/16360/16061)] \
-Order-Planning Neural Text Generation From Structured Data. *AAAI 2018*. [[PDF](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16203/16095)]
-Table-to-text Generation by Structure-aware Seq2seq Learning. *AAAI 2018*. [[PDF](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPDFInterstitial/16599/16019)]
-
-## ECCV 2018
-Diverse and Coherent Paragraph Generation from Images. *ECCV 2018*. [[PDF]( https://eccv2018.org/openaccess/content_ECCV_2018/papers/Moitreya_Chatterjee_Diverse_and_Coherent_ECCV_2018_paper.pdf)]
-
-
-
 
 
