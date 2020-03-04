@@ -5,7 +5,7 @@
 Towards Generating Long and Coherent Text with Multi-Level Latent Variable Models. *ACL 2019*. [[PDF](https://arxiv.org/pdf/1902.00154)] \
 A Cross-Domain Transferable Neural Coherence Model. *ACL 2019*. [[PDF](https://arxiv.org/pdf/1905.11912)] \
 Sentence Mover's Similarity Automatic Evaluation for Multi-Sentence Texts. *ACL 2019*. [[PDF](https://pdfs.semanticscholar.org/7164/b4cb89b268dd4887fc029488393c4c249306.pdf)] \
-**Enhancing Variational Autoencoders with Mutual Information Neural Estimation for Text Generation**. *ACL 2019*. [[PDF](https://www.aclweb.org/anthology/D19-1416.pdf)] \
+**Enhancing Variational Autoencoders with Mutual Information Neural Estimation for Text Generation**. *ACL 2019*. [[PDF](https://www.aclweb.org/anthology/D19-1416.pdf)]
 
 ## ACL 2018
 A Graph-to-Sequence Model for AMR-to-Text Generation. *ACL 2018*. [[PDF](https://arxiv.org/pdf/1805.02473)]
