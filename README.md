@@ -1,11 +1,182 @@
 # Text Generation
 
 ## ACL 2019
-**Using Semantic Similarity as Reward for Reinforcement Learning in Sentence Generation**. *ACL 2019*. [[PDF](https://pdfs.semanticscholar.org/6a53/a38e1b160ab70f4a0f84ceff906ac84d9b12.pdf)] \
-Towards Generating Long and Coherent Text with Multi-Level Latent Variable Models. *ACL 2019*. [[PDF](https://arxiv.org/pdf/1902.00154)] \
-A Cross-Domain Transferable Neural Coherence Model. *ACL 2019*. [[PDF](https://arxiv.org/pdf/1905.11912)] \
-Sentence Mover's Similarity Automatic Evaluation for Multi-Sentence Texts. *ACL 2019*. [[PDF](https://pdfs.semanticscholar.org/7164/b4cb89b268dd4887fc029488393c4c249306.pdf)] \
-**Enhancing Variational Autoencoders with Mutual Information Neural Estimation for Text Generation**. *ACL 2019*. [[PDF](https://www.aclweb.org/anthology/D19-1416.pdf)]
+
+### Base
+
+**Syntax-Infused Variational Autoencoder for Text Generation**. [[PDF]()] \
+*We present a syntax-infused variational autoencoder (SIVAE), that integrates sentences with their syntactic trees to improve the grammar of generated sentences.*
+
+**Enhancing Variational Autoencoders with Mutual Information Neural Estimation for Text Generation**. [[PDF]()] \
+
+**Using Semantic Similarity as Reward for Reinforcement Learning in Sentence Generation**. [[PDF]()] \
+
+Towards Generating Long and Coherent Text with Multi-Level Latent Variable Models. [[PDF]()] \
+
+Neural Keyphrase Generation via Reinforcement Learning with Adaptive Rewards. [[PDF]()] \
+*To address this problem, we propose a reinforcement learning (RL) approach for keyphrase generation, with an adaptive reward function that encourages a model to generate both sufficient and accurate keyphrases.*
+
+Decomposable Neural Paraphrase Generation. [[PDF]()] \
+*This paper presents Decomposable Neural Paraphrase Generator (DNPG), a Transformer-based model that can learn and generate paraphrases of a sentence at different levels of granularity in a disentangled way.*
+
+Large-Scale Transfer Learning for Natural Language Generation. [[PDF]()] \
+*We focus in particular on open-domain dialog as a typical high entropy generation task, presenting and comparing different architectures for adapting pretrained models with state of the art results.*
+
+Self-Attention Architectures for Answer-Agnostic Neural Question Generation. [[PDF]()] \
+*We explore how Transformers can be adapted to the task of Neural Question Generation without constraining the model to focus on a specific answer passage.*
+
+Dual Supervised Learning for Natural Language Understanding and Generation. [[PDF]()] \
+*This paper proposes a novel learning framework for natural language understanding and generation on top of dual supervised learning, providing a way to exploit the duality.*
+
+Word2Sense: Sparse Interpretable Word Embeddings. [[PDF]()] \
+*We present an unsupervised method to generate Word2Sense word embeddings that are interpretable – each dimension of the embedding space corresponds to a fine-grained sense, and the non-negative value of the embedding along the j-th dimension represents the relevance of the j-th sense to the word.*
+
+Enhancing Unsupervised Generative Dependency Parser with Contextual Information. [[PDF]()] \
+*In this paper, we propose a novel probabilistic model called discriminative neural dependency model with valence (D-NDMV) that generates a sentence and its parse from a continuous latent representation, which encodes global contextual information of the generated sentence.*
+
+Exploring Pre-trained Language Models for Event Extraction and Generation. [[PDF]()] \
+*To promote event extraction, we first propose an event extraction model to overcome the roles overlap problem by separating the argument prediction in terms of roles. Moreover, to address the problem of insufficient training data, we propose a method to automatically generate labeled data by editing prototypes and screen out generated samples by ranking the quality.*
+
+Incorporating Linguistic Constraints into Keyphrase Generation. [[PDF]()] \
+*In this paper, we propose the parallel Seq2Seq network with the coverage attention to alleviate the overlapping phrase problem.*
+
+Generating Summaries with Topic Templates and Structured Convolutional Decoders. [[PDF]()] \
+*In this paper we propose a structured convolutional decoder that is guided by the content structure of target summaries.*
+
+Keeping Notes: Conditional Natural Language Generation with a Scratchpad Encoder. [[PDF]()] \
+*We introduce the Scratchpad Mechanism, a novel addition to the sequence-to-sequence (seq2seq) neural network architecture and demonstrate its effectiveness in improving the overall fluency of seq2seq models for natural language generation tasks.*
+
+Argument Generation with Retrieval, Planning, and Realization. [[PDF]()] \
+*In this paper, we study the specific problem of counter-argument generation, and present a novel framework, CANDELA.*
+
+Inducing Document Structure for Aspect-based Summarization. [[PDF]()] \
+*We tackle the task of aspect-based summarization, where, given a document and a target aspect, our models generate a summary centered around the aspect.*
+
+
+### Table-Text
+Towards Comprehensive Description Generation from Factual Attribute-value Tables. [[PDF]()] \
+*To relieve these problems, we first propose force attention (FA) method to encourage the generator to pay more attention to the uncovered attributes to avoid potential key attributes missing. Furthermore, we propose reinforcement learning for information richness to generate more informative as well as more loyal descriptions for tables.*
+
+Key Fact as Pivot: A Two-Stage Model for Low Resource Table-to-Text Generation. [[PDF]()] \
+*In this work, we consider the scenario of low resource table-to-text generation, where only limited parallel data is available.*
+
+### Data-Text
+Data-to-text Generation with Entity Modeling. [[PDF]()] \
+*In this work we propose an entity-centric neural architecture for data-to-text generation.*
+
+Learning to Select, Track, and Generate for Data-to-Text. [[PDF]()] \
+*We propose a data-to-text generation model with two modules, one for tracking and the other for text generation.*
+
+### Multimodal-Text
+What Should I Ask? Using Conversationally Informative Rewards for Goal-oriented Visual Dialog. [[PDF]()] \
+*In this work, we focus on the task of goal-oriented visual dialogue, aiming to automatically generate a series of questions about an image with a single objective.*
+
+Dense Procedure Captioning in Narrated Instructional Videos. [[PDF]()] \
+*Motivated by video dense captioning, we propose a model to generate procedure captions from narrated instructional videos which are a sequence of step-wise clips with description.*
+
+Bridging by Word: Image Grounded Vocabulary Construction for Visual Captioning. [[PDF]()] \
+*To tackle this problem, we propose to construct an image-grounded vocabulary, based on which, captions are generated with limitation and guidance.*
+
+Improving Visual Question Answering by Referring to Generated Paragraph Captions. [[PDF]()] \
+*Hence, we propose a combined Visual and Textual Question Answering (VTQA) model which takes as input a paragraph caption as well as the corresponding image, and answers the given question based on both inputs.*
+
+Ordinal and Attribute Aware Response Generation in a Multimodal Dialogue System. [[PDF]()] \
+*In this paper, we propose a novel position and attribute aware attention mechanism to learn enhanced image representation conditioned on the user utterance.*
+
+### QA
+Generating Question-Answer Hierarchies. [[PDF]()] \
+*In this paper, we present SQUASH (Specificity-controlled Question-Answer Hierarchies), a novel and challenging text generation task that converts an input document into a hierarchy of question-answer pairs.*
+
+Generating Question Relevant Captions to Aid Visual Question Answering. [[PDF]()] \
+*We present a novel approach to better VQA performance that exploits this connection by jointly generating captions that are targeted to help answer a specific visual question.*
+
+Synthetic QA Corpora Generation with Roundtrip Consistency. [[PDF]()] \
+*We introduce a novel method of generating synthetic question answering corpora by combining models of question generation and answer extraction, and by filtering the results to ensure roundtrip consistency.*
+
+Improving the Robustness of Question Answering Systems to Question Paraphrasing. [[PDF]()] \
+*Using a neural paraphrasing model trained to generate multiple paraphrased questions for a given source question and a set of paraphrase suggestions, we propose a data augmentation approach that requires no human intervention to re-train the models for improved robustness to question paraphrasing.*
+
+Asking the Crowd: Question Analysis, Evaluation and Generation for Open Discussion on Online Forums. [[PDF]()] \
+*In this paper, we take the first step on teaching machines to ask open-answered questions from real-world news for open discussion (openQG).*
+
+Cross-Lingual Training for Automatic Question Generation. [[PDF]()] \
+*We propose a cross-lingual QG model which uses the following training regime: (i) Unsupervised pretraining of language models in both primary and secondary languages and (ii) joint supervised training for QG in both languages.*
+
+Interconnected Question Generation with Coreference Alignment and Conversation Flow Modeling. [[PDF]()] \
+*We propose an end-to-end neural model with coreference alignment and conversation flow modeling.*
+
+Learning to Ask Unanswerable Questions for Machine Reading Comprehension. [[PDF]()] \
+*In this work, we propose a data augmentation technique by automatically generating relevant unanswerable questions according to an answerable question paired with its corresponding paragraph that contains the answer.*
+
+Reinforced Dynamic Reasoning for Conversational Question Generation. [[PDF]()] \
+*Towards that end, we propose a new approach named Reinforced Dynamic Reasoning network, which is based on the general encoder-decoder framework but incorporates a reasoning procedure in a dynamic manner to better understand what has been asked and what to ask next about the passage into the general encoder-decoder framework.*
+
+### Dialogue
+ReCoSa: Detecting the Relevant Contexts with Self-Attention for Multi-turn Dialogue Generation. [[PDF]()] \
+*In this paper, we propose a new model, named ReCoSa, to tackle this problem.*
+
+Semantically Conditioned Dialog Response Generation via Hierarchical Disentangled Self-Attention. [[PDF]()] \
+*To alleviate such scalability issue, we exploit the structure of dialog acts to build a multi-layer hierarchical graph, where each act is represented as a root-to-leaf route on the graph.*
+
+Generating Responses with a Specific Emotion in Dialog. [[PDF]()] \
+*We propose an emotional dialogue system (EmoDS) that can generate the meaningful responses with a coherent structure for a post, and meanwhile express the desired emotion explicitly or implicitly within a unified framework.*
+
+
+A Working Memory Model for Task-oriented Dialog Response Generation. [[PDF]()] \
+*Inspired by the psychological studies on working memory, we propose a working memory model (WMM2Seq) for dialog response generation*
+
+
+Domain Adaptive Dialog Generation via Meta Learning. [[PDF]()] \
+*We propose a domain adaptive dialog generation method based on meta-learning (DAML).*
+
+### Other APPs
+Rhetorically Controlled Encoder-Decoder for Modern Chinese Poetry Generation. [[PDF]()] \
+*In this paper, we propose a rhetorically controlled encoder-decoder for modern Chinese poetry generation.*
+
+Automatic Grammatical Error Correction for Sequence-to-sequence Text Generation: An Empirical Study. [[PDF]()] \
+*In this paper, we present a preliminary empirical study on whether and how much automatic grammatical error correction can help improve seq2seq text generation.*
+
+Learning to Control the Fine-grained Sentiment for Story Ending Generation. [[PDF]()] \
+*In this paper, we propose to generate sentences from disentangled syntactic and semantic spaces.*
+
+Neural Response Generation with Meta-words. [[PDF]()] \
+*We present open domain dialogue generation with meta-words.*
+
+Coherent Comments Generation for Chinese Articles with a Graph-to-Sequence Model. [[PDF]()] \
+*In this paper, we propose to generate comments with a graph-to-sequence model that models the input news as a topic interaction graph.*
+
+Retrieval-Enhanced Adversarial Training for Neural Response Generation. [[PDF]()] \
+*In this paper, we propose a Retrieval-Enhanced Adversarial Training (REAT) method for neural response generation.*
+
+  
+**Adversarial Domain Adaptation Using Artificial Titles for Abstractive Title Generation**. [[PDF]()] \
+*This paper examines techniques for adapting from a labeled source domain to an unlabeled target domain in the context of an encoder-decoder model for text generation.*
+
+**Topic-Aware Neural Keyphrase Generation for Social Media Language**. [[PDF]()] \
+*To facilitate automatic language understanding, we study keyphrase prediction, distilling salient information from massive posts.*
+
+### Dataset
+Storyboarding of Recipes: Grounded Contextual Generation. [[PDF]()] \
+*We introduce a dataset for sequential procedural (how-to) text generation from images in cooking domain.*
+
+Curate and Generate: A Corpus and Method for Joint Control of Semantics and Style in Neural NLG. [[PDF]()] \
+*We present YelpNLG, a corpus of 300,000 rich, parallel meaning representations and highly stylistically varied reference texts spanning different restaurant attributes, and describe a novel methodology that can be scalably reused to generate NLG datasets for other domains.*
+
+Towards Empathetic Open-domain Conversation Models: A New Benchmark and Dataset. [[PDF]()] \
+*This work proposes a new benchmark for empathetic dialogue generation and EmpatheticDialogues, a novel dataset of 25k conversations grounded in emotional situations.*
+
+Explain Yourself! Leveraging Language Models for Commonsense Reasoning. [[PDF]()] \
+*We collect human explanations for commonsense reasoning in the form of natural language sequences and highlighted annotations in a new dataset called Common Sense Explanations (CoS-E). We use CoS-E to train language models to automatically generate explanations that can be used during training and inference in a novel Commonsense Auto-Generated Explanation (CAGE) framework.*
+
+### Evaluation 
+Sentence Mover's Similarity Automatic Evaluation for Multi-Sentence Texts. [[PDF]()] \
+
+Know More about Each Other: Evolving Dialogue Strategy via Compound Assessment. [[PDF]()] \
+*In this paper, a novel Generation-Evaluation framework is developed for multi-turn conversations with the objective of letting both participants know more about each other.*
+
+Handling Divergent Reference Texts when Evaluating Table-to-Text Generation. [[PDF]()] \
+*We propose a new metric, PARENT, which aligns n-grams from the reference and generated texts to the semi-structured data before computing their precision and recall.*
+
 
 ## ACL 2018
 A Graph-to-Sequence Model for AMR-to-Text Generation. *ACL 2018*. [[PDF](https://arxiv.org/pdf/1805.02473)]
