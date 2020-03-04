@@ -42,7 +42,7 @@
 
 ### NAACL2018
 #### Long Papers
-**Discourse-Aware Neural Rewards for Coherent Text Generation** [[PDF]()]
+**Discourse-Aware Neural Rewards for Coherent Text Generation**.
 In this paper, we investigate the use of discourse-aware rewards with reinforcement learning to guide a model to generate long, coherent text.
 
 **Neural Text Generation in Stories Using Entity Representations as Context**
