@@ -14,7 +14,7 @@
     * [AAAI 2018](#aaai-2018-1)
   * [Data\-Text](#data-text)
     * [ACL 2019](#acl-2019-2)
-  * [ACL 2018](#acl-2018)
+    * [ACL 2018](#acl-2018)
     * [NAACL 2019](#naacl-2019-1)
     * [EMNLP 2019](#emnlp-2019-2)
     * [AAAI 2019](#aaai-2019-1)
@@ -246,7 +246,7 @@ Data-to-text Generation with Entity Modeling. *ACL 2019*. [[PDF]()] \
 Learning to Select, Track, and Generate for Data-to-Text. *ACL 2019*. [[PDF]()] \
 *We propose a data-to-text generation model with two modules, one for tracking and the other for text generation.*
 
-## ACL 2018
+### ACL 2018
 A Graph-to-Sequence Model for AMR-to-Text Generation. *ACL 2018*. [[PDF](https://arxiv.org/pdf/1805.02473)]
 
 ### NAACL 2019
