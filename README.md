@@ -40,10 +40,9 @@
 1. A Cross-Domain Transferable Neural Coherence Model. *ACL 2019*. [[PDF](https://arxiv.org/pdf/1905.11912)]
 2. Sentence Mover's Similarity Automatic Evaluation for Multi-Sentence Texts. *ACL 2019*. [[PDF](https://pdfs.semanticscholar.org/7164/b4cb89b268dd4887fc029488393c4c249306.pdf)]
 
-### NAACL2018
-#### Long Papers
-**Discourse-Aware Neural Rewards for Coherent Text Generation**.
-In this paper, we investigate the use of discourse-aware rewards with reinforcement learning to guide a model to generate long, coherent text.
+### NAACL 2018 Long Papers
+1. Discourse-Aware Neural Rewards for Coherent Text Generation
+*In this paper, we investigate the use of discourse-aware rewards with reinforcement learning to guide a model to generate long, coherent text.*
 
 **Neural Text Generation in Stories Using Entity Representations as Context**
 *We introduce an approach to neural text generation that explicitly represents entities mentioned in the text.*
