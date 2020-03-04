@@ -30,9 +30,9 @@
     * [AAAI 2020](#aaai-2020-2)
     * [ACL 2019](#acl-2019-5)
     * [NAACL 2019](#naacl-2019-2)
-  * [NAACL 2018](#naacl-2018-3)
+    * [NAACL 2018](#naacl-2018-3)
   * [Other Applications](#other-applications)
-  * [AAAI 2020](#aaai-2020-3)
+    * [AAAI 2020](#aaai-2020-3)
     * [ACL 2019](#acl-2019-6)
     * [NAACL 2019](#naacl-2019-3)
     * [NAACL 2018](#naacl-2018-4)
@@ -376,7 +376,7 @@ What makes a good conversation? How controllable attributes affect human judgmen
 *In this work, we examine two controllable neural text generation methods, conditional training and weighted
 decoding, in order to control four important attributes for chit-chat dialogue: repetition, specificity, response-relatedness and questionasking.*
 
-## NAACL 2018
+### NAACL 2018
 Dialog Generation Using Multi-Turn Reasoning Neural Networks. *NAACL 2018*. [[PDF]()] \
 *In this paper, we propose a generalizable dialog generation approach that adapts multi-turn reasoning, one recent advancement in the field of document comprehension, to generate responses (“answers”) by taking current conversation session context as a “document” and current query as a “question”.*
 
@@ -384,7 +384,7 @@ Automatic Dialogue Generation with Expressed Emotions. *NAACL 2018*. [[PDF]()] \
 *In this research, we address the problem of forcing the dialogue generation to express emotion.*
 
 ## Other Applications
-## AAAI 2020
+### AAAI 2020
 An Iterative Polishing Framework based on Quality Aware Masked Language Model for Chinese Poetry Generation. [[PDF]()] \
 MixPoet: Diverse Poetry Generation via Learning Controllable Mixed Latent Space. [[PDF]()] \
 Label Error Correction and Generation Through Label Relationships. [[PDF]()] \
