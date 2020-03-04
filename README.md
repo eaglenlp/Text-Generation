@@ -30,11 +30,11 @@ Autoregressive Text Generation beyond Feedback Loops. *EMNLP 2019*. [[PDF](https
 ## AAAI 2018
 Controlling Global Statistics in Recurrent Neural Network Text Generation. *AAAI 2018*. [[PDF](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16961/16085)] \
 Long Text Generation via Adversarial Training with Leaked Information. *AAAI 2018*. [[PDF](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPDFInterstitial/16360/16061)] \
-Order-Planning Neural Text Generation From Structured Data. *AAAI 2018*. [[PDF](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16203/16095)] \
-Table-to-text Generation by Structure-aware Seq2seq Learning. *AAAI 2018*. [[PDF](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPDFInterstitial/16599/16019)] \
+Order-Planning Neural Text Generation From Structured Data. *AAAI 2018*. [[PDF](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16203/16095)]
+Table-to-text Generation by Structure-aware Seq2seq Learning. *AAAI 2018*. [[PDF](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPDFInterstitial/16599/16019)]
 
 ## ECCV 2018
-Diverse and Coherent Paragraph Generation from Images. *ECCV 2018*. [[PDF]( https://eccv2018.org/openaccess/content_ECCV_2018/papers/Moitreya_Chatterjee_Diverse_and_Coherent_ECCV_2018_paper.pdf )] \
+Diverse and Coherent Paragraph Generation from Images. *ECCV 2018*. [[PDF]( https://eccv2018.org/openaccess/content_ECCV_2018/papers/Moitreya_Chatterjee_Diverse_and_Coherent_ECCV_2018_paper.pdf)]
 
 ## AAAI 2019
 Differentiated Distribution Recovery for Neural Text Generation. *AAAI 2019*. [[PDF]()] \
