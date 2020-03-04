@@ -41,7 +41,7 @@
 2. Sentence Mover's Similarity Automatic Evaluation for Multi-Sentence Texts. *ACL 2019*. [[PDF](https://pdfs.semanticscholar.org/7164/b4cb89b268dd4887fc029488393c4c249306.pdf)]
 
 ### NAACL 2018 Long Papers
-1. Discourse-Aware Neural Rewards for Coherent Text Generation
+Discourse-Aware Neural Rewards for Coherent Text Generation \
 *In this paper, we investigate the use of discourse-aware rewards with reinforcement learning to guide a model to generate long, coherent text.*
 
 **Neural Text Generation in Stories Using Entity Representations as Context**
