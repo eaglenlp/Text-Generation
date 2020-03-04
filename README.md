@@ -202,7 +202,17 @@ Deep Copycat Networks for Text-to-Text Generation. *EMNLP 2019*. [[PDF]()] \
 Implicit Deep Latent Variable Models for Text Generation. *EMNLP 2019*. [[PDF]()] \
 Long and Diverse Text Generation with Planning-based Hierarchical Variational Model. *EMNLP 2019*. [[PDF]()] \
 Select and Attend: Towards Controllable Content Selection in Text Generation. *EMNLP 2019*. [[PDF]()] \
-Autoregressive Text Generation beyond Feedback Loops. *EMNLP 2019*. [[PDF](https://arxiv.org/pdf/1908.11658)]
+Autoregressive Text Generation beyond Feedback Loops. *EMNLP 2019*. [[PDF](https://arxiv.org/pdf/1908.11658)] \
+Translate and Label! An Encoder-Decoder Approach for Cross-lingual Semantic Role Labeling. *EMNLP 2019*. [[PDF]()] \
+Contrastive Attention Mechanism for Abstractive Sentence Summarization. [[PDF]()] \
+Clickbait? Sensational Headline Generation with Auto-tuned Reinforcement Learning. [[PDF]()] \
+Concept Pointer Network for Abstractive Summarization. [[PDF]()] \
+Clickbait? Sensational Headline Generation with Auto-tuned Reinforcement Learning. [[PDF]()] \
+Mixture Content Selection for Diverse Sequence Generation. [[PDF]()] \
+An End-to-End Generative Architecture for Paraphrase Generation. [[PDF]()] \
+Exploring Diverse Expressions for Paraphrase Generation. [[PDF]()] \
+Attending to Future Tokens for Bidirectional Sequence Generation. *EMNLP 2019*. [[PDF]()] 
+
 
 ### AAAI 2020
 Attractive or Faithful? Popularity‐Reinforced Learning for Inspired Headline Generation. [[PDF]()] \
@@ -343,6 +353,11 @@ Zero-Shot Question Generation from Knowledge Graphs for Unseen Predicates and En
 Leveraging Context Information for Natural Question Generation. *NAACL 2018*. [[PDF]()] \
 *We propose a model that matches the answer with the passage before generating the question.*
 
+### EMNLP 2019
+Generating Questions for Knowledge Bases via Incorporating Diversified Contexts and Answer-Aware Loss. [[PDF]()] 
+Addressing Semantic Drift in Question Generation for Semi-Supervised Question Answering
+Incorporating External Knowledge into Machine Reading for Generative Question Answering
+
 ### AAAI 2020
 Improving Question Generation with Sentence‐level Semantic Matching and Answer Position Inferring. [[PDF]()] \
 Conclusion‐Supplement Answer Generation for Non‐Factoid Questions. [[PDF]()] \
@@ -388,6 +403,14 @@ Dialog Generation Using Multi-Turn Reasoning Neural Networks. *NAACL 2018*. [[PD
 
 Automatic Dialogue Generation with Expressed Emotions. *NAACL 2018*. [[PDF]()] \
 *In this research, we address the problem of forcing the dialogue generation to express emotion.*
+
+### EMNLP 2019
+Multi-task Learning for Natural Language Generation in Task-Oriented Dialogue. [[PDF]()] \
+**Dirichlet Latent Variable Hierarchical Recurrent Encoder-Decoder in Dialogue Generation**. [[PDF]()] \
+Hierarchy Response Learning for Neural Conversation Generation. [[PDF]()] \
+Knowledge Aware Conversation Generation with Explainable Reasoning over Augmented Graphs. [[PDF]()] \
+Adaptive Parameterization for Neural Dialogue Generation. [[PDF]()] \
+DyKgChat: Benchmarking Dialogue Generation Grounding on Dynamic Knowledge Graphs. [[PDF]()] 
 
 ### AAAI 2020
 Learning from Easy to Complex: Adaptive Multi‐curricula Learning for Neural Dialogue Generation. [[PDF]()] \
