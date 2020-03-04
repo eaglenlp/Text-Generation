@@ -44,63 +44,63 @@
 Discourse-Aware Neural Rewards for Coherent Text Generation \
 *In this paper, we investigate the use of discourse-aware rewards with reinforcement learning to guide a model to generate long, coherent text.*
 
-**Neural Text Generation in Stories Using Entity Representations as Context**
+Neural Text Generation in Stories Using Entity Representations as Context \
 *We introduce an approach to neural text generation that explicitly represents entities mentioned in the text.*
 
-**A Deep Ensemble Model with Slot Alignment for Sequence-to-Sequence Natural Language Generation**
+A Deep Ensemble Model with Slot Alignment for Sequence-to-Sequence Natural Language Generation \
 *We describe an ensemble neural language generator, and present several novel methods for data representation and augmentation that yield improved results in our model.*
 
-**Natural Answer Generation with Heterogeneous Memory**
+Natural Answer Generation with Heterogeneous Memory \
 *In this work, we propose a novel attention mechanism to encourage the decoder to actively interact with the memory by taking its heterogeneity into account.*
 
-**Query and Output: Generating Words by Querying Distributed Word Representations for Paraphrase Generation**
+Query and Output: Generating Words by Querying Distributed Word Representations for Paraphrase Generation \
 *We present a neural model for question generation from knowledge graphs triples in a “Zero-shot” setup, that is generating questions for predicate, subject types or object types that were not seen at training time.*
 
-**Zero-Shot Question Generation from Knowledge Graphs for Unseen Predicates and Entity Types**
+Zero-Shot Question Generation from Knowledge Graphs for Unseen Predicates and Entity Types \
 *We present a neural model for question generation from knowledge graphs triples in a “Zero-shot” setup, that is generating questions for predicate, subject types or object types that were not seen at training time.*
 
-**What’s This Movie About? A Joint Neural Network Architecture for Movie Content Analysis**
+What’s This Movie About? A Joint Neural Network Architecture for Movie Content Analysis \
 *We present a novel end-to-end model for overview generation, consisting of a multi-label encoder for identifying screenplay attributes, and an LSTM decoder to generate natural language sentences conditioned on the identified attributes. We create a dataset that consists of movie scripts, attribute-value pairs for the movies’ aspects, as well as overviews, which we extract from an online database.*
 
-**Interpretable Charge Predictions for Criminal Cases: Learning to Generate Court Views from Fact Descriptions**
+Interpretable Charge Predictions for Criminal Cases: Learning to Generate Court Views from Fact Descriptions \
 *In this paper, we propose to study the problem of court view generation from the fact description in a criminal case.*
 
-**Adversarial Example Generation with Syntactically Controlled Paraphrase Networks**
+Adversarial Example Generation with Syntactically Controlled Paraphrase Networks \
 *We propose syntactically controlled paraphrase networks (SCPNs) and use them to generate adversarial examples.*
 
-**Dialog Generation Using Multi-Turn Reasoning Neural Networks**
+Dialog Generation Using Multi-Turn Reasoning Neural Networks \
 *In this paper, we propose a generalizable dialog generation approach that adapts multi-turn reasoning, one recent advancement in the field of document comprehension, to generate responses (“answers”) by taking current conversation session context as a “document” and current query as a “question”.*
 
-**Neural Text Generation in Stories Using Entity Representations as Context**
+Neural Text Generation in Stories Using Entity Representations as Context \
 *We introduce an approach to neural text generation that explicitly represents entities mentioned in the text.*
 
 #### Short Papers
 
-**Automatic Dialogue Generation with Expressed Emotions**
+Automatic Dialogue Generation with Expressed Emotions \
 *In this research, we address the problem of forcing the dialogue generation to express emotion.*
 
-**Guiding Generation for Abstractive Text Summarization Based on Key Information Guide Network**
+Guiding Generation for Abstractive Text Summarization Based on Key Information Guide Network \
 *We propose a guiding generation model that combines the extractive method and the abstractive method.*
 
-**Natural Language Generation by Hierarchical Decoding with Linguistic Patterns**
+Natural Language Generation by Hierarchical Decoding with Linguistic Patterns \
 *This paper introduces a hierarchical decoding NLG model based on linguistic patterns in different levels, and shows that the proposed method outperforms the traditional one with a smaller model size.*
 
-**RankME: Reliable Human Ratings for Natural Language Generation**
+RankME: Reliable Human Ratings for Natural Language Generation \
 *We present a novel rank-based magnitude estimation method (RankME), which combines the use of continuous scales and relative assessments.*
 
-**Identifying the Most Dominant Event in a News Article by Mining Event Coreference Relations**
+Identifying the Most Dominant Event in a News Article by Mining Event Coreference Relations \
 *Identifying the most dominant and central event of a document, which governs and connects other foreground and background events in the document, is useful for many applications, such as text summarization, storyline generation and text segmentation.*
   
-**Leveraging Context Information for Natural Question Generation**
+Leveraging Context Information for Natural Question Generation \
 *We propose a model that matches the answer with the passage before generating the question.*
 
-**TypeSQL: Knowledge-Based Type-Aware Neural Text-to-SQL Generation**
+TypeSQL: Knowledge-Based Type-Aware Neural Text-to-SQL Generation \
 *In this paper, we present a novel approach TypeSQL which formats the problem as a slot filling task in a more reasonable way.*
 
-**Learning to Generate Wikipedia Summaries for Underserved Languages from Wikidata**
+Learning to Generate Wikipedia Summaries for Underserved Languages from Wikidata \
 *In this work, we investigate the generation of open domain Wikipedia summaries in underserved languages using structured data from Wikidata.*
 
-**Natural Language to Structured Query Generation via Meta-Learning**
+Natural Language to Structured Query Generation via Meta-Learning \
 *In this work, we explore a different learning protocol that treats each example as a unique pseudo-task, by reducing the original learning problem to a few-shot meta-learning scenario with the help of a domain-dependent relevance function.*
 
 
