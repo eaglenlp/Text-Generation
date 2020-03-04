@@ -25,7 +25,7 @@ MoverScore: Text Generation Evaluating with Contextualized Embeddings and Earth 
 Neural data-to-text generation: A comparison between pipeline and end-to-end architectures. *EMNLP 2019*. [[PDF]()] \
 Select and Attend: Towards Controllable Content Selection in Text Generation. *EMNLP 2019*. [[PDF]()] \
 Table-to-Text Generation with Effective Hierarchical Encoder on Three dimensions (Row, Column and Time). *EMNLP 2019*. [[PDF]()] \
-Autoregressive Text Generation beyond Feedback Loops. *EMNLP 2019*. [[PDF](https://arxiv.org/pdf/1908.11658)] \
+Autoregressive Text Generation beyond Feedback Loops. *EMNLP 2019*. [[PDF](https://arxiv.org/pdf/1908.11658)]
 
 ## AAAI 2018
 Controlling Global Statistics in Recurrent Neural Network Text Generation. *AAAI 2018*. [[PDF](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16961/16085)] \
