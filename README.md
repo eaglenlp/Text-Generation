@@ -43,8 +43,104 @@ Hierarchical Encoder with Auxiliary Supervision for Table-to-text Generation: Le
 
 ParaBank: Monolingual Bitext Generation and Sentential Paraphrasing via Lexicallyconstrained Neural Machine Translation. *AAAI 2019*. [[PDF]()] \
 
+## NAACL 2019
+**Topic-Guided Variational Auto-Encoder for Text Generation**. [[PDF]()] \
+*We propose a topic-guided variational auto-encoder (TGVAE) model for text generation.*
 
-### NAACL 2018 Long Papers
+Keyphrase Generation: A Text Summarization Struggle. [[PDF]()] \
+*In this paper, we explore the possibility of considering the keyphrase string as an abstractive summary of the
+title and the abstract. First, we collect, process and release a large dataset of scientific paper metadata that contains 2.2 million records.*
+
+Jointly Optimizing Diversity and Relevance in Neural Response Generation. [[PDF]()] \
+*In this paper, we propose a SpaceFusion model to jointly optimize diversity and relevance that essentially fuses
+the latent space of a sequence-to-sequence model and that of an autoencoder model by leveraging novel regularization terms.*
+
+Improving Human Text Comprehension through Semi-Markov CRF-based Neural Section Title Generation. [[PDF]()] \
+*In particular, we present an extractive pipeline for section title generation by first selecting the most salient
+sentence and then applying deletion-based compression.*
+
+Unifying Human and Statistical Evaluation for Natural Language Generation. [[PDF]()] \
+*In this paper, we propose a unified framework which evaluates both diversity and quality, based on the optimal
+error rate of predicting whether a sentence is human- or machine-generated.*
+
+What makes a good conversation? How controllable attributes affect human judgments. [[PDF]()] \
+*In this work, we examine two controllable neural text generation methods, conditional training and weighted
+decoding, in order to control four important attributes for chit-chat dialogue: repetition, specificity, response-relatedness and questionasking.*
+
+Pun Generation with Surprise. [[PDF]()] \
+*In this paper, we propose an unsupervised approach to pun generation based on lots of raw (unhumorous) text
+and a surprisal principle.*
+
+Latent Code and Text-based Generative Adversarial Networks for Soft-text Generation. [[PDF]()] \
+*In this work, we introduce a novel text-based approach called Soft-GAN to effectively exploit GAN setup for
+text generation.*
+
+**Neural Text Generation from Rich Semantic Representations**. [[PDF]()] \
+*We propose neural models to generate high-quality text from structured representations based on Minimal
+Recursion Semantics (MRS).*
+
+Step-by-Step: Separating Planning from Realization in Neural Data-to-Text Generation. [[PDF]()] \
+*For training a plan-to-text generator, we present a method for matching reference texts to their corresponding
+text plans.*
+
+Evaluating Rewards for Question Generation Models. [[PDF]()] \
+*We therefore optimise directly for various objectives beyond simply replicating the ground truth questions,
+including a novel approach using an adversarial discriminator that seeks to generate questions that are indistinguishable from real
+examples.*
+
+Text Generation from Knowledge Graphs with Graph Transformers. [[PDF]()] \
+*In this work, we address the problem of generating coherent multi-sentence texts from the output of an
+information extraction system, and in particular a knowledge graph.*
+
+Text Generation with Exemplar-based Adaptive Decoding. [[PDF]()] \
+*We propose a novel conditioned text generation model.*
+
+Towards Content Transfer through Grounded Text Generation. [[PDF]()] \
+*This paper introduces the notion of Content Transfer for long-form text generation, where the task is to generate
+a next sentence in a document that both fits its context and is grounded in a content-rich external textual source such as a news story.
+As another contribution of this paper, we release a benchmark dataset of 640k Wikipedia referenced sentences paired with the source
+articles to encourage exploration of this new task.*
+
+Semantically-Aligned Equation Generation for Solving and Reasoning Math Word Problems. [[PDF]()] \
+*Motivated by the intuition about how human generates the equations given the problem texts, this paper
+presents a neural approach to automatically solve math word problems by operating symbols according to their semantic meanings in
+texts.*
+
+**An Integrated Approach for Keyphrase Generation via Exploring the Power of Retrieval and Extraction**. [[PDF]()] \
+*In this paper, we present a novel integrated approach for keyphrase generation (KG).*
+
+Accelerated Reinforcement Learning for Sentence Generation by Vocabulary Prediction. [[PDF]()] \
+*To improve the efficiency of reinforcement learning, we present a novel approach for reducing the action space
+based on dynamic vocabulary prediction.*
+
+Corpora Generation for Grammatical Error Correction. [[PDF]()] \
+*We describe two approaches for generating large parallel datasets for GEC using publicly available Wikipedia
+data.*
+
+Structural Neural Encoders for AMR-to-text Generation. [[PDF]()] \
+*We investigate the extent to which reentrancies (nodes with multiple parents) have an impact on AMR-to-text
+generation by comparing graph encoders to tree encoders, where reentrancies are not preserved.*
+
+Affect-Driven Dialog Generation. [[PDF]()] \
+*In this paper, we present an affect-driven dialog system, which generates emotional responses in a controlled
+manner using a continuous representation of emotions.*
+
+**Pre-trained language model representations for language generation**. [[PDF]()] \
+*In this paper, we examine different strategies to integrate pre-trained representations into sequence to sequence
+models and apply it to neural machine translation and abstractive summarization.*
+
+Pragmatically Informative Text Generation. [[PDF]()] \
+*We consider two pragmatic modeling methods for text generation: one where pragmatics is imposed by
+information preservation, and another where pragmatics is imposed by explicit modeling of distractors.*
+
+**Stochastic Wasserstein Autoencoder for Probabilistic Sentence Generation**. [[PDF]()] \
+*In this paper, we propose to use the Wasserstein autoencoder (WAE) for probabilistic sentence generation,
+where the encoder could be either stochastic or deterministic.*
+
+
+
+## NAACL 2018
+### Long Papers
 Discourse-Aware Neural Rewards for Coherent Text Generation. [[PDF]()] \
 *In this paper, we investigate the use of discourse-aware rewards with reinforcement learning to guide a model to generate long, coherent text.*
 
@@ -78,7 +174,7 @@ Dialog Generation Using Multi-Turn Reasoning Neural Networks. [[PDF]()] \
 Neural Text Generation in Stories Using Entity Representations as Context. [[PDF]()] \
 *We introduce an approach to neural text generation that explicitly represents entities mentioned in the text.*
 
-#### NAACL 2018 Short Papers
+### Short Papers
 
 Automatic Dialogue Generation with Expressed Emotions. [[PDF]()] \
 *In this research, we address the problem of forcing the dialogue generation to express emotion.*
