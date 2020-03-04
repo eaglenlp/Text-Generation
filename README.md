@@ -190,7 +190,9 @@ Ordinal and Attribute Aware Response Generation in a Multimodal Dialogue System.
 *In this paper, we propose a novel position and attribute aware attention mechanism to learn enhanced image representation conditioned on the user utterance.*
 
 ### NAACL 2019
-
+### NAACL 2018
+What’s This Movie About? A Joint Neural Network Architecture for Movie Content Analysis. *NAACL 2018*. [[PDF]()] \
+*We present a novel end-to-end model for overview generation, consisting of a multi-label encoder for identifying screenplay attributes, and an LSTM decoder to generate natural language sentences conditioned on the identified attributes. We create a dataset that consists of movie scripts, attribute-value pairs for the movies’ aspects, as well as overviews, which we extract from an online database.*
 
 ## QA
 
@@ -305,9 +307,6 @@ presents a neural approach to automatically solve math word problems by operatin
 texts.*
 
 ### NAACL 2018
-What’s This Movie About? A Joint Neural Network Architecture for Movie Content Analysis. *NAACL 2018*. [[PDF]()] \
-*We present a novel end-to-end model for overview generation, consisting of a multi-label encoder for identifying screenplay attributes, and an LSTM decoder to generate natural language sentences conditioned on the identified attributes. We create a dataset that consists of movie scripts, attribute-value pairs for the movies’ aspects, as well as overviews, which we extract from an online database.*
-
 Interpretable Charge Predictions for Criminal Cases: Learning to Generate Court Views from Fact Descriptions. *NAACL 2018*. [[PDF]()] \
 *In this paper, we propose to study the problem of court view generation from the fact description in a criminal case.*
 
