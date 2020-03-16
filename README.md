@@ -496,6 +496,6 @@ Unifying Human and Statistical Evaluation for Natural Language Generation. *NAAC
 error rate of predicting whether a sentence is human- or machine-generated.*
 
 ### EMNLP 2019
-MoverScore: Text Generation Evaluating with Contextualized Embeddings and Earth Mover Distance. *EMNLP 2019*. [[PDF]()] \
+MoverScore: Text Generation Evaluating with Contextualized Embeddings and Earth Mover Distance. *EMNLP 2019*. [[PDF]()] 
 
 
